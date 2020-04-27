@@ -73,7 +73,7 @@ This page covers general-purpose tools that support Mint language.
 
 ### Editor extensions
 
-- [VSCode extension](https://github.com/faustinoaq/vscode-mint-lang) - adds syntax highlighting and autocomplete support
+- [VSCode extension](https://github.com/s0kil/mint-vscode) - adds syntax highlighting and autocomplete support
 - [Emacs mode](https://github.com/creatorrr/emacs-mint-mode) - adds syntax highlighting and auto-formatting using mint format
 - [IntelliJ plugin](https://github.com/kingsleyh/intellij-mint) - adds syntax highlighting
 - [Atom plugin](https://github.com/kingsleyh/language-mint) - adds syntax highlighting
