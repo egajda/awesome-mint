@@ -2,7 +2,7 @@
 
 # Awesome Mint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
->  A curated list of awesome things related to [Mint](https://www.mint-lang.com). Inspired by [Awesome Crystal](https://github.com/veelenga/awesome-crystal#shell-plugins), [Awesome Vue](https://github.com/vuejs/awesome-vue#community) and all the other Awesome Lists of the world.
+> A curated list of awesome things related to [Mint](https://www.mint-lang.com). Inspired by [Awesome Crystal](https://github.com/veelenga/awesome-crystal#shell-plugins), [Awesome Vue](https://github.com/vuejs/awesome-vue#community) and all the other Awesome Lists of the world.
 
 - [Resources](#resources)
   - [Official Resources](#official-resources)
@@ -19,7 +19,6 @@
 - [Tools](#tools)
   - [Editor Extensions](#editor-extensions)
 
-
 ## Resources
 
 ### Official Resources
@@ -31,6 +30,7 @@
 
 ### Community
 
+- [Discord](https://discord.gg/NXFUJs2)
 - [Twitter](https://twitter.com/mint_lang)
 - [Gitter](https://gitter.im/mint-lang/Lobby)
 
@@ -82,6 +82,5 @@ This page covers general-purpose tools that support Mint language.
 ## Contribute
 
 Contributions welcome!
-
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
