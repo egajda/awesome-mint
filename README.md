@@ -2,7 +2,7 @@
 
 # Awesome Mint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
->  A curated list of awesome things related to [Mint](https://www.mint-lang.com). Inspired by [Awesome Crystal](https://github.com/veelenga/awesome-crystal#shell-plugins), [Awesome Vue](https://github.com/vuejs/awesome-vue#community) and all the other Awesome Lists of the world.
+> A curated list of awesome things related to [Mint](https://www.mint-lang.com). Inspired by [Awesome Crystal](https://github.com/veelenga/awesome-crystal#shell-plugins), [Awesome Vue](https://github.com/vuejs/awesome-vue#community) and all the other Awesome Lists of the world.
 
 - [Resources](#resources)
   - [Official Resources](#official-resources)
@@ -19,7 +19,6 @@
 - [Tools](#tools)
   - [Editor Extensions](#editor-extensions)
 
-
 ## Resources
 
 ### Official Resources
@@ -31,6 +30,7 @@
 
 ### Community
 
+- [Discord](https://discord.gg/NXFUJs2)
 - [Twitter](https://twitter.com/mint_lang)
 - [Gitter](https://gitter.im/mint-lang/Lobby)
 
@@ -52,6 +52,7 @@
 ### Commercial Products
 
 - [Base](https://www.base-api.io/) - APIs for image and file storage, user authentication, email sending and more
+- [px.div](https://www.pxdiv.com/) - Build HTML and CSS visually in the browser where it belongs.
 
 ## Awesome Mint
 
@@ -73,7 +74,7 @@ This page covers general-purpose tools that support Mint language.
 
 ### Editor extensions
 
-- [VSCode extension](https://github.com/faustinoaq/vscode-mint-lang) - adds syntax highlighting and autocomplete support
+- [VSCode extension](https://github.com/s0kil/mint-vscode) - adds syntax highlighting and autocomplete support
 - [Emacs mode](https://github.com/creatorrr/emacs-mint-mode) - adds syntax highlighting and auto-formatting using mint format
 - [IntelliJ plugin](https://github.com/kingsleyh/intellij-mint) - adds syntax highlighting
 - [Atom plugin](https://github.com/kingsleyh/language-mint) - adds syntax highlighting
@@ -82,6 +83,5 @@ This page covers general-purpose tools that support Mint language.
 ## Contribute
 
 Contributions welcome!
-
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
