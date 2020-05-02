@@ -8,6 +8,7 @@
   - [Official Resources](#official-resources)
   - [Community](#community)
   - [Tutorials](#tutorials)
+  - [Guides](#guides)
   - [Official Examples](#official-examples)
 - [Projects Using Mint](#projects-using-mint)
   - [Open Source](#official-resources)
@@ -38,6 +39,18 @@
 
 - [A Crystal Mint Lemonade](https://dev.to/franciscello/a-crystal-mint-lemonade-3l07)
 - [Mint: a breath of fresh air for the web](https://dev.to/franciscello/mint-a-breath-of-fresh-air-for-the-web-fn0)
+- [Mint vs JavaScript](https://dev.to/gdotdesign/mint-vs-javascript-stack-15id)
+
+### Guides
+
+- Introducing Mint Series
+  - [1. Getting Started](https://dev.to/gdotdesign/getting-started-with-mint-3k2o)
+  - [2. Components](https://dev.to/gdotdesign/components-in-mint-4a4n)
+  - [3. Events and State of Components](https://dev.to/gdotdesign/mint-events-and-state-of-components-3j3a)
+  - [4. Handling HTTP Requests](https://dev.to/gdotdesign/mint-handling-http-requests-2ep3)
+  - [5. Styling Elements](https://dev.to/gdotdesign/mint-styling-elements-295o)
+  - [6. Creating Packages](https://dev.to/gdotdesign/mint-creating-a-packages-5e9b)
+  - [7. Routing](https://dev.to/gdotdesign/mint-routing-2h69)
 
 ### Official Examples
 
