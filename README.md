@@ -61,6 +61,7 @@
 ### Open Source
 
 - [Hackerfit](https://github.com/egajda/hackerfit) - A fun way to be active everyday
+- [TodoMVC](https://github.com/ymmooot/mint-todomvc) - Mint implementation of [TodoMVC](http://todomvc.com/)
 
 ### Commercial Products
 
@@ -92,6 +93,10 @@ This page covers general-purpose tools that support Mint language.
 - [IntelliJ plugin](https://github.com/kingsleyh/intellij-mint) - adds syntax highlighting
 - [Atom plugin](https://github.com/kingsleyh/language-mint) - adds syntax highlighting
 - [Vim](https://github.com/IrenejMarc/vim-mint) - very minimal (but working) syntax/ftdetect combo
+
+## CI/CD
+
+- [Github action](https://github.com/fabasoad/setup-mint-action) - Github action to test and build Mint projects 
 
 ## Contribute
 
