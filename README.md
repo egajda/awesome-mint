@@ -19,6 +19,7 @@
   - [Desktop App](#desktop-app)
 - [Tools](#tools)
   - [Editor Extensions](#editor-extensions)
+- [Script plugins](#script-plugins)
 
 ## Resources
 
@@ -97,6 +98,10 @@ This page covers general-purpose tools that support Mint language.
 ## CI/CD
 
 - [Github action](https://github.com/fabasoad/setup-mint-action) - Github action to test and build Mint projects 
+
+## Script plugins
+
+- [mint-lang-zsh](https://github.com/tamdaz/mint-lang-zsh) - Oh My Zsh plugin for the "mint" binary.
 
 ## Contribute
 
